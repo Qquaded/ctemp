@@ -1,0 +1,7 @@
+return {
+	ShowInCommandBar = true,
+  StartWhenServerStart = true,
+  AddNewCategoryBasedOnName = false,
+  DoIApproveTheRobloxAndConstructTOS = "yeah!!",
+  PayToJoin = "Gamepass",
+}
