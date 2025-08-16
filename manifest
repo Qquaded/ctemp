@@ -1,0 +1,30 @@
+--[[
+    This is the manifest file for your mod.
+    It returns a Lua table containing information about the mod and its dependencies.
+    
+    Expected Mod Folder Structure:
+    
+    /ModName/
+        ├── manifest (lua file)        -- This file, returns a table with metadata
+        ├── scripts/
+        │    ├── client/ (stores Vinux files)       -- Client-side scripts (UI, input, etc.)
+        │    └── server/  (stores Vinux files)      -- Server-side scripts (game logic, replication)
+        ├── assets/
+        │    ├── models/        -- 3D models, parts, prefabs
+        │    ├── textures/      -- Textures or UI images
+        │    ├── sounds/        -- Sound effects or music
+        │    └── dependencies/ (mod files) -- Runtime dependencies
+        ├── config/
+        │    └── settings (lua file)  -- Mod-specific settings/configuration
+        └── README.md           -- Documentation for the mod
+--]]
+
+return {
+    Name = "%s",
+    Version = "%s",
+    Author = "%s",
+    Description = "%s",
+    Thumbnail = "rbxassetid://123456789",
+    ModType = "Heavy",
+    Icon = "rbxassetid://123456789",
+}
