@@ -1,6 +1,6 @@
 # Construct – Modding Terms of Service
 
-**Effective Date:** {set on publish}
+**Effective Date:** 8/16/25
 
 **Overview:** These terms explain how players and developers can create and use third‑party modifications ("Mods") for **Construct**. Mods are welcome if they are safe, respectful of intellectual property, aligned with Roblox policies, and in support of a fair experience for all players. By developing or distributing a Mod, you agree to these rules.
 
@@ -97,8 +97,8 @@ We can end your modding rights at any time. If we do, you'll have to stop using 
 
 ## 18) Contact
 
-* **General Questions**: {email or Roblox contact form}
-* **Removal/DMCA Requests**: {email or link}
+* **General Questions**: quadigenindustries@gmail.com
+* **Removal/DMCA Requests**: quadigenindustries@gmail.com
 
 ## 19) Community Rule
 
